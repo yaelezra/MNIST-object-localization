@@ -1,6 +1,6 @@
 # MNIST-object-localization
 
-In this project I used the MNIST dataset to build an object localization network. 
+In this project I used the MNIST dataset to build an object classification+localization network. 
 
 First, the MNIST 28X28 images were placed in bigger images 50X50.
 
